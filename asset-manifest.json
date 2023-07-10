@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PortFolio-React/static/css/main.897aa3e6.css",
+    "main.js": "/PortFolio-React/static/js/main.cb456dfe.js",
+    "static/media/Black and Green Texture Instagram Reels Cover.png": "/PortFolio-React/static/media/Black and Green Texture Instagram Reels Cover.275c6e23a71a064274c8.png",
+    "static/media/paginas-para-crear-portafolios.jpg": "/PortFolio-React/static/media/paginas-para-crear-portafolios.28dd81ea34fc0f04725a.jpg",
+    "static/media/DanielRivero2023.pdf": "/PortFolio-React/static/media/DanielRivero2023.01125cb7745b5c53e9ab.pdf",
+    "static/media/java y spring.png": "/PortFolio-React/static/media/java y spring.32509f390d0ea1cf4d32.png",
+    "static/media/React.png": "/PortFolio-React/static/media/React.b894be2773faa033d1c4.png",
+    "static/media/Programmer-PNG-Free-File-Download.png": "/PortFolio-React/static/media/Programmer-PNG-Free-File-Download.ba704ff77e39094aa378.png",
+    "static/media/Angular.png": "/PortFolio-React/static/media/Angular.5774026b30aec48cda2c.png",
+    "static/media/Coder.jpg": "/PortFolio-React/static/media/Coder.722a3ee6e4723a3ae389.jpg",
+    "index.html": "/PortFolio-React/index.html",
+    "main.897aa3e6.css.map": "/PortFolio-React/static/css/main.897aa3e6.css.map",
+    "main.cb456dfe.js.map": "/PortFolio-React/static/js/main.cb456dfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.897aa3e6.css",
+    "static/js/main.cb456dfe.js"
+  ]
+}
