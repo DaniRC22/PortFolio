@@ -54,7 +54,7 @@
     .experience__content{
         padding: 1rem;
     }
-};
+}
 @media screen and (max-width: 600px){
     
     .experience__container{
@@ -65,4 +65,4 @@
         width: 100%;
         padding: 2rem 1rem;
     }
-};
+}
