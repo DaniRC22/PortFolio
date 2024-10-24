@@ -15,15 +15,12 @@ const Service = () => {
           <ul className='services__list'>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Ofrezco habilidades intermedias en CSS, HTML y JavaScript.</p>
+              <p>Ofrezco habilidades en CSS, HTML y JavaScript.</p>
             </li>
+            
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Domino Bootstrap para crear interfaces atractivas y adaptativas.</p>
-            </li>
-            <li>
-              <BsCheck className='service__list-icon'/> 
-              <p>Desarrollo aplicaciones web complejas utilizando Angular.</p>
+              <p>Desarrollo aplicaciones web complejas utilizando React y Angular.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
@@ -33,10 +30,7 @@ const Service = () => {
               <BsCheck className='service__list-icon'/> 
               <p>Enfoque en diseño, interactividad y experiencia de usuario.</p>
             </li>
-            <li>
-              <BsCheck className='service__list-icon'/> 
-              <p>Tengo conocimientos básicos en React para proyectos más simples.</p>
-            </li>
+            
           </ul>
 
         </article>
@@ -56,9 +50,7 @@ const Service = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Conocimientos vasicos en MySQL, Java y Spring Boot para aplicaciones</p></li>
-            
-          
+              <p>Conocimientos en node js</p></li>
             <li>
               <BsCheck className='service__list-icon'/> 
               <p>Desarrollo integral de soluciones web con funcionalidad y seguridad.</p></li>

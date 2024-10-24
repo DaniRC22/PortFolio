@@ -5,15 +5,18 @@ import {BsWhatsapp} from 'react-icons/bs';
 import {GrLinkedin} from 'react-icons/gr'
 
 import emailjs from 'emailjs-com';
+const serviceId= process.env.REACT_APP_SERVICE_ID;
+const templateId= process.env.REACT_APP_TEMPLATE_ID;
+const userPK= process.env.REACT_APP_ID_USER;
 
 const Contact = () => {
   
   const form = useRef();
-
+  
   const sendEmail = (e) => {
     e.preventDefault();
-
-    emailjs.sendForm('service_oucheqx', 'template_ggrakmj', form.current, 'b6SGeyFjc-M6TJ7Z1')
+    emailjs.sendForm(serviceId, templateId, form.current, userPK)
+    alert('Mensaje enviado, seras respondido a la brevedad')
     e.target.reset();
   };
 
