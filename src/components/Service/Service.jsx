@@ -15,7 +15,7 @@ const Service = () => {
           <ul className='services__list'>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Ofrezco habilidades en CSS, HTML y JavaScript.</p>
+              <p>Ofrezco habilidades en CSS, HTML, JavaScript typescript.</p>
             </li>
             
             <li>
@@ -24,11 +24,11 @@ const Service = () => {
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Garantizo soluciones de alta calidad y satisfacción del cliente.</p>
+              <p>Garantizo soluciones de calidad y satisfacción del cliente.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Enfoque en diseño, interactividad y experiencia de usuario.</p>
+              <p>Enfoque en la interactividad y experiencia de usuario.</p>
             </li>
             
           </ul>
@@ -46,11 +46,11 @@ const Service = () => {
               </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Habilidades en CSS, HTML y JavaScript para interfaces atractivas.</p>
+              <p>Habilidades en CSS, HTML, JavaScript y typescript.</p>
             </li>
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Conocimientos en node js</p></li>
+              <p>Conocimientos en node js, java y .net</p></li>
             <li>
               <BsCheck className='service__list-icon'/> 
               <p>Desarrollo integral de soluciones web con funcionalidad y seguridad.</p></li>
@@ -58,7 +58,7 @@ const Service = () => {
           
             <li>
               <BsCheck className='service__list-icon'/> 
-              <p>Servicios completos de desarrollo web adaptados a tus necesidades. </p></li>
+              <p>Servicios completos de desarrollo web adaptados a necesidades. </p></li>
             
           
           </ul>

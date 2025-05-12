@@ -38,7 +38,7 @@ const About = () => {
         </div>
 
         <p>
-        "Inicié mi camino en la programación en 2021 a través de Argentina Programa, aprendiendo CSS, JavaScript, Html, Angular,Node JS, React js y typescript. Reforcé mis habilidades en Angular en un curso de CoderHouse en 2022 y en 2023 comencé a estudiar React en Platzi, ampliando mis conocimientos en desarrollo web."
+        "Inicié mi camino en la programación en 2021 a través de Argentina Programa. Reforcé mis habilidades en Angular en un curso de CoderHouse en 2022. En 2023 comencé a estudiar en Platzi, ampliando mis conocimientos en desarrollo web. Actualmente, me encuentro en un curso de Java y en la universidad para la tecnicatura en programación. Mi pasión por la tecnología y el aprendizaje continuo me impulsan a seguir creciendo en este emocionante campo. Estoy emocionado por lo que el futuro depara y listo para enfrentar nuevos desafíos."
         </p>
 
         <a href="#contact" className='btn btn-primary'> Hablame</a>

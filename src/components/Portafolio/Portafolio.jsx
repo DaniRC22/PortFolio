@@ -21,8 +21,8 @@ const Portafolio = () => {
           componentes detallados, incluye LocalStorage
         </small>
         <div className="portfolio__item-cta">
-        <a href="https://github.com/DaniRC22/ReactTdos" className='btn' target='_blank'>Git Hub</a>
-        <a href="https://danirc22.github.io/ReactTdos/" className='btn btn-primary' target='_blank'>Demo</a>
+        <a href="https://github.com/DaniRC22/ReactTdos" className='btn' target='_blank' rel="noreferrer">Git Hub</a>
+        <a href="https://danirc22.github.io/ReactTdos/" className='btn btn-primary' target='_blank' rel="noreferrer">Demo</a>
         </div>
         </article>
         <article className='portfolio__item'>
