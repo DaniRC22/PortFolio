@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.de7fdf00.css",
-    "main.js": "/PortFolio/static/js/main.7a303213.js",
+    "main.js": "/PortFolio/static/js/main.e15bdddc.js",
     "static/media/Black and Green Texture Instagram Reels Cover.png": "/PortFolio/static/media/Black and Green Texture Instagram Reels Cover.275c6e23a71a064274c8.png",
     "static/media/paginas-para-crear-portafolios.jpg": "/PortFolio/static/media/paginas-para-crear-portafolios.28dd81ea34fc0f04725a.jpg",
-    "static/media/DanielRivero2023.pdf": "/PortFolio/static/media/DanielRivero2023.01125cb7745b5c53e9ab.pdf",
+    "static/media/Rivero Esteban-2025.pdf": "/PortFolio/static/media/Rivero Esteban-2025.644bb9f360e90e4ccf1e.pdf",
     "static/media/java y spring.png": "/PortFolio/static/media/java y spring.32509f390d0ea1cf4d32.png",
     "static/media/React.png": "/PortFolio/static/media/React.b894be2773faa033d1c4.png",
     "static/media/Programmer-PNG-Free-File-Download.png": "/PortFolio/static/media/Programmer-PNG-Free-File-Download.ba704ff77e39094aa378.png",
@@ -12,10 +12,10 @@
     "static/media/Coder.jpg": "/PortFolio/static/media/Coder.722a3ee6e4723a3ae389.jpg",
     "index.html": "/PortFolio/index.html",
     "main.de7fdf00.css.map": "/PortFolio/static/css/main.de7fdf00.css.map",
-    "main.7a303213.js.map": "/PortFolio/static/js/main.7a303213.js.map"
+    "main.e15bdddc.js.map": "/PortFolio/static/js/main.e15bdddc.js.map"
   },
   "entrypoints": [
     "static/css/main.de7fdf00.css",
-    "static/js/main.7a303213.js"
+    "static/js/main.e15bdddc.js"
   ]
 }
